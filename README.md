@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RebelWright
-- 👀 I’m interested in ... software and application development
-- 🌱 I’m currently learning ...GitHub and Arduino
+- 👀 I’m interested in ...app. development, cooking, gardening, woodwork, reading, and guitar.
+- 🌱 I’m currently learning ...Jest and Arduino
 - 💞️ I’m looking to collaborate on ...new development projects
 - 📫 How to reach me ...rebeltrentwrightjr@gmail.com
 
